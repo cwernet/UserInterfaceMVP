@@ -1,0 +1,51 @@
+﻿<Properties StartupConfiguration="{98671F09-3B32-91AF-889D-5978CF52FF66}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MainMenu/MainMenuController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/CanoeFloating.cs" Line="126" Column="61" IsPinned="True" />
+      <File FileName="Assets/Scripts/GetScheme.cs" Line="41" Column="33" />
+      <File FileName="Assets/Scripts/MainMenu/MainMenuController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/CanoeControls.cs" />
+      <File FileName="Assets/Scripts/UITimer.cs" />
+      <File FileName="Assets/Scripts/PowerButtons.cs" />
+      <File FileName="Assets/Scripts/BarrelScript.cs" />
+      <File FileName="Assets/Scripts/Bullet.cs" />
+      <File FileName="Assets/Scripts/EnemyTurret.cs" />
+      <File FileName="Assets/Scripts/EnemyBullet.cs" />
+      <File FileName="Assets/Scripts/DontDestroy.cs" />
+      <File FileName="Assets/Scripts/boatIcon.cs" />
+      <File FileName="../../../Applications/Unity/Hub/Editor/2019.2.2f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/CanvasUpdateRegistry.cs" />
+      <File FileName="Assets/Scripts/Singleton.cs" />
+      <File FileName="Assets/Scripts/ScreenShaker.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UserInterfaceGame" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="MainMenu" expanded="True">
+                  <Node name="MainMenuController.cs" selected="True" />
+                </Node>
+              </Node>
+              <Node name="Standard Assets" expanded="True">
+                <Node name="2D" expanded="True">
+                  <Node name="Scripts" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="ac173ed8-b2dc-4c90-bccf-be89b94caaac" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint enabled="false" file="/Users/colton/UserInterfaceGame/Temp/UnityTempFile-9dd70473aa9b340b29da46a890b83cdb" relfile="Temp/UnityTempFile-9dd70473aa9b340b29da46a890b83cdb" line="49" column="1" />
+      <Breakpoint file="/Users/colton/UserInterfaceGame/Temp/UnityTempFile-af487dd7a01b141eca4cd496fad84832" relfile="Temp/UnityTempFile-af487dd7a01b141eca4cd496fad84832" line="25" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
